@@ -29,3 +29,4 @@ Credits
 Images used in the sidebar are by background artist [Waneella](https://twitter.com/waneella_).
 
 Based by [tayumpee's starpage 2](//github.com/tayumpee/start_page2_firefox_and_chrome) inspired by [Vallodes](https://www.reddit.com/u/vallode/) tutorial.
+
